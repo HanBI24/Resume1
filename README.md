@@ -34,4 +34,4 @@ Android
 GitHub : [HanBI24](github)
 
 
-[github]: https://www.github.com/HanBI24
+[github]: https://www.github.com/HanBI24/
