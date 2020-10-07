@@ -4,7 +4,7 @@
 * 😀 **이름 및 나이**  
   24살(97년생) 김성곤입니다.  
 * 🏠 **사는 곳**  
-  <img src = resume/living.png width = 100 height = 100/>  
+  <img src = resume/living.PNG width = 100 height = 100/>  
   
 * 🖥 **전공**  
   **16학번** 
