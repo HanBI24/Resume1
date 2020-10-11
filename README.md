@@ -2,7 +2,7 @@
 
 ### **1. 인적 사항**
 * 😀 **이름 및 나이**  
-  24살(97년생) <span style="color:blue">김성곤</span>입니다.  
+  **24살**(97년생) **김성곤**입니다.  
 * 🏠 **사는 곳**  
   <img src = resume/living.PNG width = 100 height = 100/>  
   
