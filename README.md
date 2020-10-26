@@ -83,12 +83,6 @@
 1. 나만의 오픈 소스를 제작 (안드로이드 프로그래밍 관련)
 2. GitHub 버전 관리에 대해 배우고 싶음  
 
-```uml
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
 
 
 
