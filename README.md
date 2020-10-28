@@ -11,7 +11,7 @@
   **24살**(1997년생) **김성곤**입니다.  
 
 *  **거주지**  
-  <img src = resume/living.PNG width = 100 height = 100/>  
+    <img src = resume/living.PNG width = 100 height = 100/>  
 
   
 *  **학력**  
@@ -63,13 +63,11 @@
 
 > **Framework**  
 > Dart와 Vue.js는 Cross Platform 개발을 위해 사용합니다.   
-> [<img src = resume/flutter.png width = 90 height = 30/>][flutter] 
-<img src = resume/vue.png width = 30 height = 30/> 
+> [<img src = resume/flutter.png width = 90 height = 30/>][flutter] <img src = resume/vue.png width = 30 height = 30/> 
 
 > **BackEnd**  
 > 서버는 FireBase를 주로 사용하지만, 규모가 큰 프로젝트는 Django를 사용합니다.현재 Django는 공부 중입니다.  
-<img src = resume/firepng.png width = 90 height = 30/>
-<img src = resume/django.png width = 70 height = 30/>
+<img src = resume/firepng.png width = 90 height = 30/> <img src = resume/django.png width = 70 height = 30/>
 
 > **Algoritm**  
 > Python은 슈도코드로 사용하며, 실질적인 구현은 Java로 합니다.  
@@ -78,14 +76,13 @@
 
 >**UI/UX**  
 >개발 초창기엔 종이에 프로토타입을 그렸지만, 현재는 Adobe XD로 사용합니다.  
- <img src = resume/xd.png width = 30 height = 30/>  
+<img src = resume/xd.png width = 30 height = 30/>  
 
 > **IDE**  
 > InteliJ를 좋아합니다.  
 [<img src = resume/as.png width = 30 height = 30/>][androidd_studio]
 [<img src = resume/vscode.png width = 30 height = 30/>][visual_studio]
-[<img src = resume/vs.png width = 50 height = 30/>][vscode]
-<img src = resume/pc.png width = 30 height = 30/>
+[<img src = resume/vs.png width = 50 height = 30/>][vscode] <img src = resume/pc.png width = 30 height = 30/>
 
 > **Tools**  
 > 버전 관리에 많이 사용합니다.  
@@ -103,9 +100,9 @@
 >> * 역할: Model 구현 및 Batch 정규화
 
 >**- VR Mase**
->> * 소개: VR 미로찾기 게임
->> * 기술 스택: C#, Unity
->> * 역할: 맵 배치 및 캐릭터 이동 구현
+> * 소개: VR 미로찾기 게임
+> * 기술 스택: C#, Unity
+> * 역할: 맵 배치 및 캐릭터 이동 구현
 
 >**- Online Judge**
 >> * 소개: 온라인 알고리즘 문제 사이트
