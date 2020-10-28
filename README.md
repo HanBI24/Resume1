@@ -118,16 +118,16 @@
 >**Shortcut Next**
 > * **소개**: 안드로이드 화면에 항상 상주하며 앱 바로가기를 활성화해주는 앱
 > * **기술 스택**: Java, Android, OpenSource
-> * 사이드 프로젝트
+> * **사이드 프로젝트**
 > * **진행중**
 > * **[GitHub][short_cut]**
 
 >**Infinite Text**
 > * **소개**: 안드로이드 텍스트 혹은 이미지를 원하는 만큼 출력해주는 앱
 > * **기술 스택**: Java, Android, RealM
-> * Android Local DB에 대해 공부하기 위해 개발
 > * **사이드 프로젝트**
 > * **진행중**
+> * Android Local DB에 대해 공부하기 위해 개발
 > * **[GitHub][infinite]**
 
 >**Public Subway**
