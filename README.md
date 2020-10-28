@@ -1,4 +1,4 @@
-## 자기소개서  
+## 이력서 
 ![version](https://img.shields.io/badge/Version-1.0-green)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsltjdrhs1997@gmial.com)](mailto:alsltjdrhs1997@gmial.com)
 [![github](https://img.shields.io/badge/GitHub-GitHub_page-black?logo=github)](https://github.com/HanBI24)
@@ -60,9 +60,9 @@
 
 > **Android**  
 > 주 개발은 Android이며, 현재 MVC, MVP, MVVM 등 Android Architecture를 공부하고 있습니다.  
-[<img src = resume/java.png width = 30 height = 40/>][java]
-[<img src = resume/kotlin.png width = 30 height = 40/>][kotlin]
-[<img src = resume/dart.png width = 70 height = 45/>][dart]
+[<img src = resume/java.png width = 35 height = 40/>][java]
+[<img src = resume/kotlin.png width = 35 height = 40/>][kotlin]
+[<img src = resume/dart.png width = 75 height = 45/>][dart]
 
 > **Framework**  
 > Flutter와 Vue.js는 Cross Platform 개발을 위해 사용합니다.   
@@ -70,25 +70,25 @@
 
 > **BackEnd**  
 > 서버는 FireBase를 주로 사용하지만, 규모가 큰 프로젝트는 Django를 사용합니다.현재 Django는 공부 중입니다.  
-<img src = resume/firepng.png width = 90 height = 30/> <img src = resume/django.png width = 70 height = 30/>
+<img src = resume/firepng.png width = 90 height = 35/> <img src = resume/django.png width = 70 height = 30/>
 
 > **Algoritm**  
 > Python은 슈도코드로 사용하며, 실질적인 구현은 Java로 합니다.  
-[<img src = resume/java.png width = 30 height = 30/>][java]
-[<img src = resume/python.png width = 30 height = 30/>][python]  
+[<img src = resume/java.png width = 35 height = 40/>][java]
+[<img src = resume/python.png width = 37 height = 40/>][python]  
 
 > **UI/UX**  
 > 개발 초창기엔 종이에 프로토타입을 그렸지만, 현재는 Adobe XD로 사용합니다.  
-> <img src = resume/xd.png width = 30 height = 30/>  
+> <img src = resume/xd.png width = 40 height = 40/>  
 
 > **IDE**  
 > InteliJ를 좋아합니다.  
-[<img src = resume/as.png width = 30 height = 30/>][androidd_studio]
-[<img src = resume/vscode.png width = 30 height = 30/>][visual_studio]
-[<img src = resume/vs.png width = 50 height = 30/>][vscode] <img src = resume/pc.png width = 30 height = 30/>
+[<img src = resume/as.png width = 40 height = 40/>][androidd_studio]
+[<img src = resume/vscode.png width = 35 height = 35/>][visual_studio]
+[<img src = resume/vs.png width = 60 height = 40/>][vscode] <img src = resume/pc.png width = 40 height = 40/>
 
 > **Tools**  
-> 버전 관리에 많이 사용합니다.  <br><br>
+> 버전 관리에 많이 사용합니다.  
 [<img src = resume/git.png width = 70 height = 30/>][git]
 [<img src = resume/github.png width = 40 height = 30/>][github]
 
@@ -120,6 +120,7 @@
 > * **기술 스택**: Java, Android, OpenSource
 > * 사이드 프로젝트
 > * **진행중**
+> * **[GitHub][short_cut]**
 
 >**Infinite Text**
 > * **소개**: 안드로이드 텍스트 혹은 이미지를 원하는 만큼 출력해주는 앱
@@ -127,12 +128,19 @@
 > * Android Local DB에 대해 공부하기 위해 개발
 > * **사이드 프로젝트**
 > * **진행중**
+> * **[GitHub][infinite]**
 
 >**Public Subway**
 > * **소개**: 지하철 역 주변 건물들을 공공 데이터로 받아 어떤 것들이 있는지 알려주는 앱
 > * **기술 스택**: Java, Android, RestAPI
 > * **사이드 프로젝트**
-> * **진행중**
+> * **[GitHub][public_subway]**  
+
+>**MuscleKim**
+> * **소개**: 알람을 맞춰주는 앱
+> * **기술 스택**: Flutter, Android, IOS, RestAPI
+> * **사이드 프로젝트**
+> * **[GitHub][muscle]**  
 -----------------
 
 ### **5. 개발한 앱**
@@ -199,6 +207,9 @@ _____
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [snap]: https://play.google.com/store/apps/details?id=com.Dev.unknown.snapwifi&hl=ko
-[muscle]: https://play.google.com/store/apps/details?id=muscle.kim.musclekim&hl=ko
 [react_native]: https://reactnative.dev/
 [github]: https://github.com/HanBI24
+[short_cut]: https://github.com/HanBI24/ShortcutsNext
+[infinite]: https://github.com/HanBI24/InfiniteText
+[public_subway]: https://github.com/HanBI24/PublicData-Subway
+[muscle]: https://github.com/HanBI24/muscle_kim_flutter_refactoring
