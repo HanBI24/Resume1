@@ -3,7 +3,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsltjdrhs1997@gmial.com)](mailto:alsltjdrhs1997@gmial.com)
 ### **1. 인적 사항** <br>
 ```
- 저는 안드로이드 앱 개발을 주로 진행합니다. 사람들이 필요로 하는 기능을 개발하기 위해 노력하며, 기업 전략에 필요한 협업 사고와 가치를 추구하기 위해 공부하고 있습니다.
+ 저는 안드로이드 앱 개발을 주로 진행합니다. 사람들이 필요로 하는 기능을 개발하기 위해 노력하며, 
+ 기업 전략에 필요한 협업 사고와 가치를 추구하기 위해 공부하고 있습니다.
 ```
 
 *  **이름 및 나이**  
