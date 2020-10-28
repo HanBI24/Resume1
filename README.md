@@ -1,7 +1,7 @@
 ## 자기소개서  
 ![version](https://img.shields.io/badge/Version-1.0-green)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsltjdrhs1997@gmial.com)](mailto:alsltjdrhs1997@gmial.com)
-[![github](https://img.shields.io/badge/GitHub-My_GitHub-black?logo=github)](https://github.com/HanBI24)
+[![github](https://img.shields.io/badge/GitHub-GitHub_page-black?logo=github)](https://github.com/HanBI24)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanBI24&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HanBI24) 
 ```
   저는 안드로이드 앱 개발을 주로 진행합니다. 사람들이 필요로 하는 기능을 개발하기 위해 노력하며, 
@@ -27,7 +27,7 @@
     [<img src = resume/netflix.png width = 50 height = 25/>][netflix]  
    **코딩, 쇼핑**
 
-  * **GitHub** <br>[![github](https://img.shields.io/badge/GitHub-My_GitHub-black?logo=github)](https://github.com/HanBI24)<br>
+  * **GitHub** <br>[![github](https://img.shields.io/badge/GitHub-GitHub_page-black?logo=github)](https://github.com/HanBI24)<br>
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HanBI24&count_private=true&show_icons=true)](https://github.com/HanBI24)
   
 ----------------  
