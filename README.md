@@ -26,7 +26,7 @@
    **코딩, 쇼핑**
 
   * **GitHub** <br>[![Github](https://img.shields.io/badge/My--GitHub-Page-black)](https://github.com/HanBI24)<br>
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HanBI24&count_private=true&show_icons=true&theme=radical)](https://github.com/HanBI24)
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HanBI24&count_private=true&show_icons=true)](https://github.com/HanBI24)
   
 ----------------  
 
