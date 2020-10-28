@@ -1,6 +1,8 @@
 ## 자기소개서  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanBI24&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HanBI24)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsltjdrhs1997@gmial.com)](mailto:alsltjdrhs1997@gmial.com)  
+![version](https://img.shields.io/badge/Version-1.0-green)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsltjdrhs1997@gmial.com)](mailto:alsltjdrhs1997@gmial.com)
+[![github](https://img.shields.io/badge/GitHub-My_GitHub-black?logo=github)](https://github.com/HanBI24)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanBI24&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HanBI24) 
 ```
  저는 안드로이드 앱 개발을 주로 진행합니다. 사람들이 필요로 하는 기능을 개발하기 위해 노력하며, 
  기업 전략에 필요한 협업 사고와 가치를 추구하기 위해 공부하고 있습니다.
@@ -25,7 +27,7 @@
     [<img src = resume/netflix.png width = 50 height = 25/>][netflix]  
    **코딩, 쇼핑**
 
-  * **GitHub** <br>[![Github](https://img.shields.io/badge/My--GitHub-Page-black)](https://github.com/HanBI24)<br>
+  * **GitHub** <br>[![github](https://img.shields.io/badge/GitHub-My_GitHub-black?logo=github)](https://github.com/HanBI24)<br>
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HanBI24&count_private=true&show_icons=true)](https://github.com/HanBI24)
   
 ----------------  
@@ -48,8 +50,8 @@
  이는 StarLink가 목표한 위성 개수를 채운다면 더욱 빨라지고 안전해질 것이라고 생각합니다.
 
  앱 개발 외에도, 저는 밖에 나가서 친구들과 만나 자전거를 타거나 여행가는 것을 좋아합니다. 그러나 현재는 코로나로 
- 인하여 외출을 자제하는 편이며, 실내에선 영화를 보거나 요리를 하며, 개발자가 가져야할 인성과 소양, 마음가짐에 대해
- 공부하고 있습니다.
+ 인하여 외출을 자제하는 편이며, 실내에선 영화를 보거나 요리를 하며, 개발자가 가져야할 인성과 소양, 마음가짐에
+ 대해 공부하고 있습니다.
 ```
 ----------------------
 
@@ -127,7 +129,7 @@
 
 >**- Public Subway**
 > * 소개: 지하철 역 주변 건물들을 공공 데이터로 받아 어떤 것들이 있는지 알려주는 앱
-> * 기술 스택: Java, Android, Rest API
+> * 기술 스택: Java, Android, RestAPI
 > * 사이드 프로젝트
 > * 진행중
 -----------------
