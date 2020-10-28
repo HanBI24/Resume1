@@ -145,12 +145,15 @@
 
 ### **5. 개발한 앱**
 [<img src = resume/snap.jpg width = 60 height = 60/>][snap]  
- [**SNAP WIFI**][snap]  
+ **SNAP WIFI** 
 > * **소개**: 카페나 PC방 등 와이파이 비밀번호를 사진으로 찍으면 와이파이가 자동으로 연결되는 앱.
 > * **기술 스택**: Java, Android, OCR, OpenSource
 > * **기간**
 > >* **개발 시작(v1.0)**: 2018.03 ~ 2018.06
-> >* **리팩토링(v2.0)**: 2020.06 ~ 2020.07
+> >* **리팩토링(v2.0)**: 2020.06 ~ 2020.07  
+> 
+> * **[GitHub][snap_git]**
+> * **[Google Play][snap]**
 
 -----------------
 ### **6. 취득한 자격증**
@@ -213,3 +216,4 @@ _____
 [infinite]: https://github.com/HanBI24/InfiniteText
 [public_subway]: https://github.com/HanBI24/PublicData-Subway
 [muscle]: https://github.com/HanBI24/muscle_kim_flutter_refactoring
+[snap_git]: https://github.com/BSAA7567/SNAP-WIFI
