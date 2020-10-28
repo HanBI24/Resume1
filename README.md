@@ -106,7 +106,7 @@
 
 >**- Online Judge**
 > * 소개: 온라인 알고리즘 문제 사이트
-> * 기술 스택: html, css, JavaScript, php, AWS
+> * 기술 스택: HTML, CSS, JavaScript, php, AWS
 > * 역할: 문제 풀이 페이지 개발  
 
 <br>
@@ -116,17 +116,20 @@
 > * 소개: 안드로이드 화면에 항상 상주하며 앱 바로가기를 활성화해주는 앱
 > * 기술 스택: Java, Android, OpenSource
 > * 사이드 프로젝트
+> * 진행중
 
 >**- Infinite Text**
 > * 소개: 안드로이드 텍스트 혹은 이미지를 원하는 만큼 출력해주는 앱
 > * 기술 스택: Java, Android, RealM
+> * Android Local DB에 대해 공부하기 위해 개발
 > * 사이드 프로젝트
-> * Local DB에 대해 공부하기 위해 개발
+> * 진행중
 
 >**- Public Subway**
 > * 소개: 지하철 역 주변 건물들을 공공 데이터로 받아 어떤 것들이 있는지 알려주는 앱
 > * 기술 스택: Java, Android, Rest API
-> 사이드 프로젝트
+> * 사이드 프로젝트
+> * 진행중
 -----------------
 
 ### **5. 개발한 앱**
