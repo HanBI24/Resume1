@@ -74,9 +74,9 @@
 [<img src = resume/java.png width = 30 height = 30/>][java]
 [<img src = resume/python.png width = 30 height = 30/>][python]  
 
->**UI/UX**  
->개발 초창기엔 종이에 프로토타입을 그렸지만, 현재는 Adobe XD로 사용합니다.  
-<img src = resume/xd.png width = 30 height = 30/>  
+> **UI/UX**  
+> 개발 초창기엔 종이에 프로토타입을 그렸지만, 현재는 Adobe XD로 사용합니다.  
+> <img src = resume/xd.png width = 30 height = 30/>  
 
 > **IDE**  
 > InteliJ를 좋아합니다.  
