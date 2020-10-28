@@ -1,23 +1,34 @@
 ## 자기소개서  
 
-### **1. 인적 사항**
+### **1. 인적 사항** 
+
+<br>  
+
 * 😀 **이름 및 나이**  
   **24살**(97년생) **김성곤**입니다.  
+  <br>
+
 * 🏠 **사는 곳**  
   <img src = resume/living.PNG width = 100 height = 100/>  
+  <br>
   
 * 🖥 **전공**  
   **16학번** 
   [한림대학교 소프트웨어융합대학 **스마트IoT전공**][hallym]
+  <br><br>
 
 * 🔫 **군필**입니다!
+<br><br>
   
 * ⏰ **취미**  
-    > [<img src = resume/youtube.png width = 25 height = 17/>][youtube] 
+    >[<img src = resume/youtube.png width = 25 height = 17/>][youtube] 
     [<img src = resume/netflix.png width = 50 height = 25/>][netflix]  
-    **코딩, 쇼핑**
- 
- * [**My GitHub**][github]  
+   **코딩, 쇼핑**
+
+<br>
+
+  * ![Github](https://img.shields.io/badge/-My--GitHub-black)<br><br>
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HanBI24)](https://github.com/anuraghazra/github-readme-stats)
   
 ----------------  
 
@@ -103,3 +114,4 @@
 [snap]: https://play.google.com/store/apps/details?id=com.Dev.unknown.snapwifi&hl=ko
 [muscle]: https://play.google.com/store/apps/details?id=muscle.kim.musclekim&hl=ko
 [react_native]: https://reactnative.dev/
+[github]: https://img.shields.io/badge/-My--GitHub-black
