@@ -10,7 +10,8 @@
 ### **1. 인적 사항** <br>
 
 *  **이름 및 나이**  
-  **24살**(1997년생) **김성곤**입니다.  
+  <img src = resume/pic.jpg width = 80 height = 100/>  
+  **24살**(1997.11.05) **김성곤**입니다.  
 
 *  **거주지**  
     <img src = resume/living.PNG width = 100 height = 100/>  
