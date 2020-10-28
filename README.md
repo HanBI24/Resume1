@@ -94,10 +94,10 @@
 ### **4. 프로젝트 경험**  
  **- 2018년**  
 >**- Image Resizing**
->> * 소개: 해상도 낮은 이미지를 높여주는 딥러닝 프로젝트
->> * 기술 스택: Python, Tensorflow
->> * 사용 알고리즘: CNN (Convolutional Neural Networks)
->> * 역할: Model 구현 및 Batch 정규화
+> * 소개: 해상도 낮은 이미지를 높여주는 딥러닝 프로젝트
+> * 기술 스택: Python, Tensorflow
+> * 사용 알고리즘: CNN (Convolutional Neural Networks)
+> * 역할: Model 구현 및 Batch 정규화
 
 >**- VR Mase**
 > * 소개: VR 미로찾기 게임
@@ -105,28 +105,28 @@
 > * 역할: 맵 배치 및 캐릭터 이동 구현
 
 >**- Online Judge**
->> * 소개: 온라인 알고리즘 문제 사이트
->> * 기술 스택: html, css, JavaScript, php, AWS
->> * 역할: 문제 풀이 페이지 개발  
+> * 소개: 온라인 알고리즘 문제 사이트
+> * 기술 스택: html, css, JavaScript, php, AWS
+> * 역할: 문제 풀이 페이지 개발  
 
 <br>
 
  **- 2020년**  
 >**- Shortcut Next**
->> * 소개: 안드로이드 화면에 항상 상주하며 앱 바로가기를 활성화해주는 앱
->> * 기술 스택: Java, Android, OpenSource
->> * 사이드 프로젝트
+> * 소개: 안드로이드 화면에 항상 상주하며 앱 바로가기를 활성화해주는 앱
+> * 기술 스택: Java, Android, OpenSource
+> * 사이드 프로젝트
 
 >**- Infinite Text**
->> * 소개: 안드로이드 텍스트 혹은 이미지를 원하는 만큼 출력해주는 앱
->> * 기술 스택: Java, Android, RealM
->> * 사이드 프로젝트
->> * Local DB에 대해 공부하기 위해 개발
+> * 소개: 안드로이드 텍스트 혹은 이미지를 원하는 만큼 출력해주는 앱
+> * 기술 스택: Java, Android, RealM
+> * 사이드 프로젝트
+> * Local DB에 대해 공부하기 위해 개발
 
 >**- Public Subway**
->> * 소개: 지하철 역 주변 건물들을 공공 데이터로 받아 어떤 것들이 있는지 알려주는 앱
->> * 기술 스택: Java, Android, Rest API
->> 사이드 프로젝트
+> * 소개: 지하철 역 주변 건물들을 공공 데이터로 받아 어떤 것들이 있는지 알려주는 앱
+> * 기술 스택: Java, Android, Rest API
+> 사이드 프로젝트
 -----------------
 
 ### **5. 개발한 앱**
