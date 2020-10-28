@@ -20,7 +20,8 @@
   **2016**학번 
    [한림대학교 소프트웨어융합대학 **스마트IoT전공**][hallym]
 
-*  **군필 여부**: **군필**입니다
+*  **군필 여부**  
+   **현역 군필**입니다
   
 *  **취미**  
     >[<img src = resume/youtube.png width = 25 height = 17/>][youtube] 
@@ -64,7 +65,7 @@
 [<img src = resume/dart.png width = 70 height = 45/>][dart]
 
 > **Framework**  
-> Dart와 Vue.js는 Cross Platform 개발을 위해 사용합니다.   
+> Flutter와 Vue.js는 Cross Platform 개발을 위해 사용합니다.   
 > [<img src = resume/flutter.png width = 90 height = 30/>][flutter] <img src = resume/vue.png width = 30 height = 30/> 
 
 > **BackEnd**  
@@ -87,7 +88,7 @@
 [<img src = resume/vs.png width = 50 height = 30/>][vscode] <img src = resume/pc.png width = 30 height = 30/>
 
 > **Tools**  
-> 버전 관리에 많이 사용합니다.  
+> 버전 관리에 많이 사용합니다.  <br><br>
 [<img src = resume/git.png width = 70 height = 30/>][git]
 [<img src = resume/github.png width = 40 height = 30/>][github]
 
@@ -95,53 +96,53 @@
 
 ### **4. 프로젝트 경험**  
  **- 2018년**  
->**- Image Resizing**
-> * 소개: 해상도 낮은 이미지를 높여주는 딥러닝 프로젝트
-> * 기술 스택: Python, Tensorflow
-> * 사용 알고리즘: CNN (Convolutional Neural Networks)
-> * 역할: Model 구현 및 Batch 정규화
+>**Image Resizing**
+> * **소개**: 해상도 낮은 이미지를 높여주는 딥러닝 프로젝트
+> * **기술 스택**: Python, Tensorflow
+> * **사용 알고리즘**: CNN (Convolutional Neural Networks)
+> * **역할**: Model 구현 및 Batch 정규화
 
->**- VR Mase**
-> * 소개: VR 미로찾기 게임
-> * 기술 스택: C#, Unity
-> * 역할: 맵 배치 및 캐릭터 이동 구현
+>**VR Mase**
+> * **소개**: VR 미로찾기 게임
+> * **기술 스택** 스택: C#, Unity
+> * **역할**: 맵 배치 및 캐릭터 이동 구현
 
->**- Online Judge**
-> * 소개: 온라인 알고리즘 문제 사이트
-> * 기술 스택: HTML, CSS, JavaScript, php, AWS
-> * 역할: 문제 풀이 페이지 개발  
+>**Online Judge**
+> * **소개**: 온라인 알고리즘 문제 사이트
+> * **기술 스택**: HTML, CSS, JavaScript, php, AWS
+> * **역할**: 문제 풀이 페이지 개발  
 
 <br>
 
  **- 2020년**  
->**- Shortcut Next**
-> * 소개: 안드로이드 화면에 항상 상주하며 앱 바로가기를 활성화해주는 앱
-> * 기술 스택: Java, Android, OpenSource
+>**Shortcut Next**
+> * **소개**: 안드로이드 화면에 항상 상주하며 앱 바로가기를 활성화해주는 앱
+> * **기술 스택**: Java, Android, OpenSource
 > * 사이드 프로젝트
-> * 진행중
+> * **진행중**
 
->**- Infinite Text**
-> * 소개: 안드로이드 텍스트 혹은 이미지를 원하는 만큼 출력해주는 앱
-> * 기술 스택: Java, Android, RealM
+>**Infinite Text**
+> * **소개**: 안드로이드 텍스트 혹은 이미지를 원하는 만큼 출력해주는 앱
+> * **기술 스택**: Java, Android, RealM
 > * Android Local DB에 대해 공부하기 위해 개발
-> * 사이드 프로젝트
-> * 진행중
+> * **사이드 프로젝트**
+> * **진행중**
 
->**- Public Subway**
-> * 소개: 지하철 역 주변 건물들을 공공 데이터로 받아 어떤 것들이 있는지 알려주는 앱
-> * 기술 스택: Java, Android, RestAPI
-> * 사이드 프로젝트
-> * 진행중
+>**Public Subway**
+> * **소개**: 지하철 역 주변 건물들을 공공 데이터로 받아 어떤 것들이 있는지 알려주는 앱
+> * **기술 스택**: Java, Android, RestAPI
+> * **사이드 프로젝트**
+> * **진행중**
 -----------------
 
 ### **5. 개발한 앱**
 [<img src = resume/snap.jpg width = 60 height = 60/>][snap]  
  [**SNAP WIFI**][snap]  
-> * 소개: 카페나 PC방 등 와이파이 비번을 사진으로 찍으면 와이파이 자동연결되는 앱.
-> * 기술 스택: Java, Android, OCR, OpenSource
-> * 기간
-> >* 개발 시작(v1.0): 2018.03 ~ 2018.06
-> >* 리펙토링(v2.0): 2020.06 ~ 2018.07
+> * **소개**: 카페나 PC방 등 와이파이 비밀번호를 사진으로 찍으면 와이파이가 자동으로 연결되는 앱.
+> * **기술 스택**: Java, Android, OCR, OpenSource
+> * **기간**
+> >* **개발 시작(v1.0)**: 2018.03 ~ 2018.06
+> >* **리팩토링(v2.0)**: 2020.06 ~ 2020.07
 
 -----------------
 ### **6. 취득한 자격증**
