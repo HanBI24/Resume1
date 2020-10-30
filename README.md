@@ -57,36 +57,36 @@
 
 ### **3. 주로 사용하는 기술 및 IDE**  
 
-> **- Android**  
+> **Android**  
 > 주 개발은 **Android**이며, 현재 **MVC, MVP, MVVM** 등 **Android Architecture**를 공부하고 있습니다.  
 [<img src = resume/java.png width = 35 height = 40/>][java]
 [<img src = resume/kotlin.png width = 35 height = 40/>][kotlin]
 [<img src = resume/dart.png width = 75 height = 45/>][dart]
 
-> **- Framework**  
+> **Framework**  
 > **Flutter**와 **Vue.js**는 **Cross Platform** 개발을 위해 사용합니다.   
 > [<img src = resume/flutter.png width = 90 height = 30/>][flutter] <img src = resume/vue.png width = 30 height = 30/> 
 
-> **- BackEnd**  
+> **BackEnd**  
 > 서버는 **FireBase**를 주로 사용하지만, 규모가 큰 프로젝트는 **Django**를 사용합니다.현재 Django는 공부 중입니다.  
 <img src = resume/firepng.png width = 90 height = 35/> <img src = resume/django.png width = 70 height = 30/>
 
-> **- Algorithm**  
+> **Algorithm**  
 > **Python**은 슈도코드로 사용하며, 실질적인 구현은 **Java**로 합니다.  
 [<img src = resume/java.png width = 35 height = 40/>][java]
 [<img src = resume/python.png width = 37 height = 40/>][python]  
 
-> **- UI/UX**  
+> **UI/UX**  
 > 개발 초창기엔 종이에 프로토타입을 그렸지만, 현재는 **Adobe XD**로 사용합니다.  
 > <img src = resume/xd.png width = 40 height = 40/>  
 
-> **- IDE**  
+> **IDE**  
 > **InteliJ**를 좋아합니다.  
 [<img src = resume/as.png width = 40 height = 40/>][androidd_studio]
 [<img src = resume/vscode.png width = 35 height = 35/>][visual_studio]
 [<img src = resume/vs.png width = 60 height = 40/>][vscode] <img src = resume/pc.png width = 40 height = 40/>
 
-> **- Tools**  
+> **Tools**  
 > **버전 관리**에 많이 사용합니다.  
 [<img src = resume/git.png width = 70 height = 30/>][git]
 [<img src = resume/github.png width = 40 height = 30/>][github]
