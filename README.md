@@ -58,7 +58,7 @@
 ### **3. 주로 사용하는 기술 및 IDE**  
 
 > **Android**  
-> 주 개발은 Android이며, 현재 **MVC, MVP, MVVM** 등 **Android Architecture**를 공부하고 있습니다.  
+> 주 개발은 **Android**이며, 현재 **MVC, MVP, MVVM** 등 **Android Architecture**를 공부하고 있습니다.  
 [<img src = resume/java.png width = 35 height = 40/>][java]
 [<img src = resume/kotlin.png width = 35 height = 40/>][kotlin]
 [<img src = resume/dart.png width = 75 height = 45/>][dart]
@@ -97,18 +97,18 @@
  **- 2018년**  
 >**Image Resizing**
 > * **소개**: 해상도 낮은 이미지를 높여주는 **딥러닝** 프로젝트
-> * **기술 스택**: Python, Tensorflow
-> * **사용 알고리즘**: CNN (Convolutional Neural Networks)
+> * **기술**: Python, Tensorflow
+> * **알고리즘**: CNN (Convolutional Neural Networks)
 > * **역할**: Model 구현 및 Batch 정규화
 
 >**VR Mase**
 > * **소개**: **VR** 미로찾기 게임
-> * **기술 스택** 스택: C#, Unity
+> * **기술**: C#, Unity
 > * **역할**: 맵 배치 및 캐릭터 이동 구현
 
 >**Online Judge**
 > * **소개**: 온라인 알고리즘 문제풀이 **페이지**
-> * **기술 스택**: HTML, CSS, JavaScript, php, AWS
+> * **기술**: HTML, CSS, JavaScript, php, AWS
 > * **역할**: 문제 풀이 페이지 개발  
 
 <br>
@@ -116,14 +116,14 @@
  **- 2020년**  
 >**Shortcut Next**
 > * **소개**: 안드로이드 화면에 **항상 상주**하며 **앱 바로가기**를 활성화해주는 앱
-> * **기술 스택**: Java, Android, OpenSource
+> * **기술**: Java, Android, OpenSource
 > * **사이드 프로젝트**
 > * **진행중**
 > * **[GitHub][short_cut]**
 
 >**Infinite Text**
 > * **소개**: 안드로이드 텍스트 혹은 이미지를 **원하는 만큼 출력**해주는 앱
-> * **기술 스택**: Java, Android, RealM
+> * **기술**: Java, Android, RealM
 > * **사이드 프로젝트**
 > * **진행중**
 > * **Android Local DB**에 대해 공부하기 위해 개발
@@ -131,13 +131,13 @@
 
 >**Public Subway**
 > * **소개**: 지하철 역 주변 건물들을 **공공 데이터**로 받아 어떤 것들이 있는지 알려주는 앱
-> * **기술 스택**: Java, Android, RestAPI
+> * **기술**: Java, Android, RestAPI
 > * **사이드 프로젝트**
 > * **[GitHub][public_subway]**  
 
 >**MuscleKim**
 > * **소개**: **알람**을 맞춰주는 앱
-> * **기술 스택**: Flutter, Android, IOS, RestAPI
+> * **기술**: Flutter, Android, IOS, RestAPI
 > * **사이드 프로젝트**
 > * **Flutter에 대한 전반적인 이해**를 하기 위해 개발
 > * **[GitHub][muscle]**  
@@ -147,7 +147,7 @@
 [<img src = resume/snap.jpg width = 60 height = 60/>][snap]  
  **SNAP WIFI** 
 > * **소개**: 카페나 PC방 등 **와이파이 비밀번호**를 사진으로 찍으면 **와이파이가 자동으로 연결**되는 앱.
-> * **기술 스택**: Java, Android, OCR, OpenSource
+> * **기술**: Java, Android, OCR, OpenSource
 > * **기간**
 > >* **개발 시작(v1.0)**: 2018.03 ~ 2018.06
 > >* **리팩토링(v2.0)**: 2020.06 ~ 2020.07  
