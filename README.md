@@ -145,7 +145,7 @@
 
 ### **5. 개발한 앱**
 &nbsp; [<img src = resume/snap.jpg width = 60 height = 60/>][snap]  
-&nbsp; **SNAP WIFI** 
+> **SNAP WIFI** 
 > * **소개**: 카페나 PC방 등 **와이파이 비밀번호**를 사진으로 찍으면 **와이파이가 자동으로 연결**되는 앱.
 > * **기술**: Java, Android, OCR, OpenSource
 > * **기간**
