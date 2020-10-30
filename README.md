@@ -192,7 +192,7 @@ _____
 <br>
 감사합니다.
 
-더 궁금한 것이 있으면 밑에있는 Gmail로 연락바랍니다.   
+더 궁금한 것이 있으면 아래 Gmail로 연락바랍니다.   
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsltjdrhs1997@gmial.com)](mailto:alsltjdrhs1997@gmial.com)
 
