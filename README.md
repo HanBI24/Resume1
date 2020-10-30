@@ -72,12 +72,12 @@
 <img src = resume/firepng.png width = 90 height = 35/> <img src = resume/django.png width = 70 height = 30/>
 
 > **Algorithm**  
-> **Python**은 슈도코드로 사용하며, 실질적인 구현은 **Java**로 합니다.  
+> **Python**은 **Pseudocode**로 사용하며, **실질적인 구현**은 **Java**로 합니다.  
 [<img src = resume/java.png width = 35 height = 40/>][java]
 [<img src = resume/python.png width = 37 height = 40/>][python]  
 
 > **UI/UX**  
-> 개발 초창기엔 종이에 프로토타입을 그렸지만, 현재는 **Adobe XD**로 사용합니다.  
+> 개발 초창기엔 종이에 **프로토타입**을 그렸지만, 현재는 **Adobe XD**로 사용합니다.  
 > <img src = resume/xd.png width = 40 height = 40/>  
 
 > **IDE**  
@@ -107,7 +107,7 @@
 > * **역할**: 맵 배치 및 캐릭터 이동 구현
 
 >**Online Judge**
-> * **소개**: 온라인 알고리즘 문제풀이 **페이지**
+> * **소개**: 온라인 알고리즘 **문제풀이 페이지**
 > * **기술**: HTML, CSS, JavaScript, php, AWS
 > * **역할**: 문제 풀이 페이지 개발  
 
@@ -115,14 +115,14 @@
 
  **- 2020년**  
 >**Shortcut Next**
-> * **소개**: 안드로이드 화면에 **항상 상주**하며 **앱 바로가기**를 활성화해주는 앱
+> * **소개**: 안드로이드 화면에 **항상 상주**하며 **앱 바로가기**를 활성화하는 앱
 > * **기술**: Java, Android, OpenSource
 > * **사이드 프로젝트**
 > * **진행중**
 > * **[GitHub][short_cut]**
 
 >**Infinite Text**
-> * **소개**: 안드로이드 텍스트 혹은 이미지를 **원하는 만큼 출력**해주는 앱
+> * **소개**: 안드로이드 텍스트 혹은 이미지를 **원하는 만큼 출력**하는 앱
 > * **기술**: Java, Android, RealM
 > * **사이드 프로젝트**
 > * **진행중**
