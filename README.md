@@ -58,36 +58,36 @@
 ### **3. 주로 사용하는 기술 및 IDE**  
 
 > **Android**  
-> 주 개발은 Android이며, 현재 MVC, MVP, MVVM 등 Android Architecture를 공부하고 있습니다.  
+> 주 개발은 Android이며, 현재 **MVC, MVP, MVVM** 등 **Android Architecture**를 공부하고 있습니다.  
 [<img src = resume/java.png width = 35 height = 40/>][java]
 [<img src = resume/kotlin.png width = 35 height = 40/>][kotlin]
 [<img src = resume/dart.png width = 75 height = 45/>][dart]
 
 > **Framework**  
-> Flutter와 Vue.js는 Cross Platform 개발을 위해 사용합니다.   
+> **Flutter**와 **Vue.js**는 **Cross Platform** 개발을 위해 사용합니다.   
 > [<img src = resume/flutter.png width = 90 height = 30/>][flutter] <img src = resume/vue.png width = 30 height = 30/> 
 
 > **BackEnd**  
-> 서버는 FireBase를 주로 사용하지만, 규모가 큰 프로젝트는 Django를 사용합니다.현재 Django는 공부 중입니다.  
+> 서버는 **FireBase**를 주로 사용하지만, 규모가 큰 프로젝트는 **Django**를 사용합니다.현재 Django는 공부 중입니다.  
 <img src = resume/firepng.png width = 90 height = 35/> <img src = resume/django.png width = 70 height = 30/>
 
 > **Algoritm**  
-> Python은 슈도코드로 사용하며, 실질적인 구현은 Java로 합니다.  
+> **Python**은 슈도코드로 사용하며, 실질적인 구현은 **Java**로 합니다.  
 [<img src = resume/java.png width = 35 height = 40/>][java]
 [<img src = resume/python.png width = 37 height = 40/>][python]  
 
 > **UI/UX**  
-> 개발 초창기엔 종이에 프로토타입을 그렸지만, 현재는 Adobe XD로 사용합니다.  
+> 개발 초창기엔 종이에 프로토타입을 그렸지만, 현재는 **Adobe XD**로 사용합니다.  
 > <img src = resume/xd.png width = 40 height = 40/>  
 
 > **IDE**  
-> InteliJ를 좋아합니다.  
+> **InteliJ**를 좋아합니다.  
 [<img src = resume/as.png width = 40 height = 40/>][androidd_studio]
 [<img src = resume/vscode.png width = 35 height = 35/>][visual_studio]
 [<img src = resume/vs.png width = 60 height = 40/>][vscode] <img src = resume/pc.png width = 40 height = 40/>
 
 > **Tools**  
-> 버전 관리에 많이 사용합니다.  
+> **버전 관리**에 많이 사용합니다.  
 [<img src = resume/git.png width = 70 height = 30/>][git]
 [<img src = resume/github.png width = 40 height = 30/>][github]
 
@@ -96,18 +96,18 @@
 ### **4. 프로젝트 경험**  
  **- 2018년**  
 >**Image Resizing**
-> * **소개**: 해상도 낮은 이미지를 높여주는 딥러닝 프로젝트
+> * **소개**: 해상도 낮은 이미지를 높여주는 **딥러닝** 프로젝트
 > * **기술 스택**: Python, Tensorflow
 > * **사용 알고리즘**: CNN (Convolutional Neural Networks)
 > * **역할**: Model 구현 및 Batch 정규화
 
 >**VR Mase**
-> * **소개**: VR 미로찾기 게임
+> * **소개**: **VR** 미로찾기 게임
 > * **기술 스택** 스택: C#, Unity
 > * **역할**: 맵 배치 및 캐릭터 이동 구현
 
 >**Online Judge**
-> * **소개**: 온라인 알고리즘 문제 사이트
+> * **소개**: 온라인 알고리즘 문제풀이 **페이지**
 > * **기술 스택**: HTML, CSS, JavaScript, php, AWS
 > * **역할**: 문제 풀이 페이지 개발  
 
@@ -115,38 +115,38 @@
 
  **- 2020년**  
 >**Shortcut Next**
-> * **소개**: 안드로이드 화면에 항상 상주하며 앱 바로가기를 활성화해주는 앱
+> * **소개**: 안드로이드 화면에 **항상 상주**하며 **앱 바로가기**를 활성화해주는 앱
 > * **기술 스택**: Java, Android, OpenSource
 > * **사이드 프로젝트**
 > * **진행중**
 > * **[GitHub][short_cut]**
 
 >**Infinite Text**
-> * **소개**: 안드로이드 텍스트 혹은 이미지를 원하는 만큼 출력해주는 앱
+> * **소개**: 안드로이드 텍스트 혹은 이미지를 **원하는 만큼 출력**해주는 앱
 > * **기술 스택**: Java, Android, RealM
 > * **사이드 프로젝트**
 > * **진행중**
-> * Android Local DB에 대해 공부하기 위해 개발
+> * **Android Local DB**에 대해 공부하기 위해 개발
 > * **[GitHub][infinite]**
 
 >**Public Subway**
-> * **소개**: 지하철 역 주변 건물들을 공공 데이터로 받아 어떤 것들이 있는지 알려주는 앱
+> * **소개**: 지하철 역 주변 건물들을 **공공 데이터**로 받아 어떤 것들이 있는지 알려주는 앱
 > * **기술 스택**: Java, Android, RestAPI
 > * **사이드 프로젝트**
 > * **[GitHub][public_subway]**  
 
 >**MuscleKim**
-> * **소개**: 알람을 맞춰주는 앱
+> * **소개**: **알람**을 맞춰주는 앱
 > * **기술 스택**: Flutter, Android, IOS, RestAPI
 > * **사이드 프로젝트**
-> * Flutter에 대한 전반적인 이해를 하기 위해 개발
+> * **Flutter에 대한 전반적인 이해**를 하기 위해 개발
 > * **[GitHub][muscle]**  
 -----------------
 
 ### **5. 개발한 앱**
 [<img src = resume/snap.jpg width = 60 height = 60/>][snap]  
  **SNAP WIFI** 
-> * **소개**: 카페나 PC방 등 와이파이 비밀번호를 사진으로 찍으면 와이파이가 자동으로 연결되는 앱.
+> * **소개**: 카페나 PC방 등 **와이파이 비밀번호**를 사진으로 찍으면 **와이파이가 자동으로 연결**되는 앱.
 > * **기술 스택**: Java, Android, OCR, OpenSource
 > * **기간**
 > >* **개발 시작(v1.0)**: 2018.03 ~ 2018.06
@@ -192,7 +192,7 @@ _____
 <br>
 감사합니다.
 
-더 궁금한 것이 있으면 아래 Gmail로 연락바랍니다.   
+더 궁금한 것이 있으면 아래 **Gmail**로 연락바랍니다.   
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsltjdrhs1997@gmial.com)](mailto:alsltjdrhs1997@gmial.com)
 
