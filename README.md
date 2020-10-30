@@ -88,7 +88,7 @@
 
 > **Tools**  
 > **버전 관리**에 많이 사용합니다.  
-[<img src = resume/git.png width = 70 height = 30/>][git]
+[<img src = resume/git.png width = 70 height = 30/>][git]&nbsp;
 [<img src = resume/github.png width = 40 height = 30/>][github]
 
 -----------------
