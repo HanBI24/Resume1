@@ -27,7 +27,7 @@
 *  **취미**  
     >[<img src = resume/youtube.png width = 25 height = 17/>][youtube] 
     [<img src = resume/netflix.png width = 50 height = 25/>][netflix]  
-   **코딩, 쇼핑**
+   **코딩, 쇼핑, 여행 🛫**
 
   * **GitHub** <br>[![github](https://img.shields.io/badge/GitHub-GitHub_page-black?logo=github)](https://github.com/HanBI24)<br>
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HanBI24&count_private=true&show_icons=true)](https://github.com/HanBI24)
@@ -156,7 +156,7 @@
 > * **[Google Play][snap]**
 
 -----------------
-### **6. 취득한 자격증**
+### **6. 취득 자격증 🎫**
 * 정보처리기능사
 * 정보기기운용기능사
 * OCJP
@@ -165,7 +165,7 @@
 
 ---------------------
 
-### **7. 수상 내역**
+### **7. 수상 내역 🏆**
 **- 2015년**
 > - 제 21회 서울특별시 IT 창의성 대회 프로그래밍 전문가 부문 동상  
 > - ICT 어워드 코리아 네트워크 보안 프로그래밍 부문 고등부 장려상
@@ -192,6 +192,9 @@ _____
 <br>
 감사합니다.
 
+더 궁금한 것이 있으면 밑에있는 Gmail로 연락바랍니다.   
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsltjdrhs1997@gmial.com)](mailto:alsltjdrhs1997@gmial.com)
 
 
 
