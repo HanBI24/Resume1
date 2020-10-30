@@ -57,8 +57,7 @@
 
 ### **3. 주로 사용하는 기술 및 IDE**  
 
-> * **Android** 
->  
+> **Android**  
 > 주 개발은 **Android**이며, 현재 **MVC, MVP, MVVM** 등 **Android Architecture**를 공부하고 있습니다.  
 [<img src = resume/java.png width = 35 height = 40/>][java]
 [<img src = resume/kotlin.png width = 35 height = 40/>][kotlin]
