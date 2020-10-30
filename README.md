@@ -71,7 +71,7 @@
 > 서버는 **FireBase**를 주로 사용하지만, 규모가 큰 프로젝트는 **Django**를 사용합니다.현재 Django는 공부 중입니다.  
 <img src = resume/firepng.png width = 90 height = 35/> <img src = resume/django.png width = 70 height = 30/>
 
-> **Algoritm**  
+> **Algorithm**  
 > **Python**은 슈도코드로 사용하며, 실질적인 구현은 **Java**로 합니다.  
 [<img src = resume/java.png width = 35 height = 40/>][java]
 [<img src = resume/python.png width = 37 height = 40/>][python]  
