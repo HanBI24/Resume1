@@ -94,7 +94,7 @@
 -----------------
 
 ### **4. 프로젝트 경험**  
- **- 2018년**  <br><br>
+ ### - 2018년  <br><br>
  &nbsp; <img src = resume/resize.PNG width = 100 height = 100/>
 >**Image Resizing**
 > * **소개**: 해상도 낮은 이미지를 높여주는 **딥러닝** 프로젝트
@@ -122,7 +122,7 @@
 
 <br><br>
 
- **- 2020년**  
+ ### - 2020년  
  <br>
 
  &nbsp; [<img src = resume/shortcut.PNG width = 100 height = 80/>][snap] 
