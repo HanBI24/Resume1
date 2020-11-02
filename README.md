@@ -114,9 +114,10 @@
 
 <br>
 
+&nbsp; <img src = resume/react.PNG width = 100 height = 70/>
 >**Online Judge**
 > * **소개**: 온라인 알고리즘 **문제풀이 페이지**
-> * **기술**: HTML, CSS, JavaScript, php, AWS
+> * **기술**: ~~HTML, CSS, JavaScript, php, AWS~~ ***(현재는 React Native로 변경**)*
 > * **역할**: 문제 풀이 페이지 개발  
 
 <br>
