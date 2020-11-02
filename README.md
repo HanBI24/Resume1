@@ -146,7 +146,7 @@
 
 <br>
 
-&nbsp; <img src = resume/subway.PNG width = 100 height = 100/> 
+&nbsp; <img src = resume/subway.PNG width = 120 height = 100/> 
 >**Public Subway**
 > * **소개**: 지하철 역 주변 건물들을 **공공 데이터**로 받아 어떤 것들이 있는지 알려주는 앱
 > * **기술**: Java, Android, RestAPI
