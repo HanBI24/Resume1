@@ -101,6 +101,7 @@
 > * **기술**: Python, Tensorflow
 > * **알고리즘**: CNN (Convolutional Neural Networks)
 > * **역할**: Model 구현 및 Batch 정규화
+> * **[상세보기][go_vr]**
 
 <br>
 
@@ -228,3 +229,4 @@ _____
 [muscle]: https://github.com/HanBI24/muscle_kim_flutter_refactoring
 [snap_git]: https://github.com/BSAA7567/SNAP-WIFI
 [go_vr]: https://github.com/HanBI24/Resume1/blob/main/resume/miro_project.md
+[go_image]: https://github.com/HanBI24/Resume1/image_resize_project.md
