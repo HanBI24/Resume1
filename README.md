@@ -123,9 +123,9 @@
 <br>
 
  **- 2020년**  
- <br><br>
+ <br>
 
- &nbsp; [<img src = resume/shortcut.PNG width = 80 height = 80/>][snap] 
+ &nbsp; [<img src = resume/shortcut.PNG width = 100 height = 80/>][snap] 
 >**Shortcut Next**
 > * **소개**: 안드로이드 화면에 **항상 상주**하며 **앱 바로가기**를 활성화하는 앱
 > * **기술**: Java, Android, OpenSource
@@ -146,7 +146,7 @@
 
 <br><br>
 
-&nbsp; <img src = resume/subway.PNG width = 70 height = 70/> 
+&nbsp; <img src = resume/subway.PNG width = 100 height = 100/> 
 >**Public Subway**
 > * **소개**: 지하철 역 주변 건물들을 **공공 데이터**로 받아 어떤 것들이 있는지 알려주는 앱
 > * **기술**: Java, Android, RestAPI
