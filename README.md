@@ -101,6 +101,7 @@
 > * **알고리즘**: CNN (Convolutional Neural Networks)
 > * **역할**: Model 구현 및 Batch 정규화
 
+&nbsp; <img src = resume/miro.PNG width = 60 height = 60/>
 >**VR Mase**
 > * **소개**: **VR** 미로찾기 게임
 > * **기술**: C#, Unity
