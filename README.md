@@ -101,7 +101,7 @@
 > * **기술**: Python, Tensorflow
 > * **알고리즘**: CNN (Convolutional Neural Networks)
 > * **역할**: Model 구현 및 Batch 정규화
-> * **[상세보기][go_vr]**
+> * **[상세보기][go_image]**
 
 <br>
 
