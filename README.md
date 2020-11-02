@@ -133,7 +133,7 @@
 > * **진행중**
 > * **[GitHub][short_cut]**
 
-<br><br>
+<br>
 
 &nbsp; <img src = resume/infinite.png width = 70 height = 70/> 
 >**Infinite Text**
@@ -144,7 +144,7 @@
 > * **Android Local DB**에 대해 공부하기 위해 개발
 > * **[GitHub][infinite]**
 
-<br><br>
+<br>
 
 &nbsp; <img src = resume/subway.PNG width = 100 height = 100/> 
 >**Public Subway**
@@ -153,7 +153,8 @@
 > * **사이드 프로젝트**
 > * **[GitHub][public_subway]**  
 
-<br><br>
+<br>
+
 >**MuscleKim**
 > * **소개**: **알람**을 맞춰주는 앱
 > * **기술**: Flutter, Android, IOS, RestAPI
