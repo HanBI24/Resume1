@@ -229,4 +229,4 @@ _____
 [muscle]: https://github.com/HanBI24/muscle_kim_flutter_refactoring
 [snap_git]: https://github.com/BSAA7567/SNAP-WIFI
 [go_vr]: https://github.com/HanBI24/Resume1/blob/main/resume/miro_project.md
-[go_image]: https://github.com/HanBI24/Resume1/image_resize_project.md
+[go_image]: https://github.com/HanBI24/Resume1/blob/main/image_resize_project.md
