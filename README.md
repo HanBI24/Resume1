@@ -120,7 +120,7 @@
 > * **기술**: ~~HTML, CSS, JavaScript, php, AWS~~ ***(현재는 React Native로 변경**)*
 > * **역할**: 문제 풀이 페이지 개발  
 
-<br>
+<br><br>
 
  **- 2020년**  
  <br>
