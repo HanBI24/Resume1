@@ -123,6 +123,9 @@
 <br>
 
  **- 2020년**  
+ <br><br>
+
+ &nbsp; [<img src = resume/shortcut.PNG width = 80 height = 80/>][snap] 
 >**Shortcut Next**
 > * **소개**: 안드로이드 화면에 **항상 상주**하며 **앱 바로가기**를 활성화하는 앱
 > * **기술**: Java, Android, OpenSource
@@ -130,6 +133,9 @@
 > * **진행중**
 > * **[GitHub][short_cut]**
 
+<br><br>
+
+&nbsp; <img src = resume/infinite.png width = 70 height = 70/> 
 >**Infinite Text**
 > * **소개**: 안드로이드 텍스트 혹은 이미지를 **원하는 만큼 출력**하는 앱
 > * **기술**: Java, Android, RealM
@@ -138,12 +144,16 @@
 > * **Android Local DB**에 대해 공부하기 위해 개발
 > * **[GitHub][infinite]**
 
+<br><br>
+
+&nbsp; <img src = resume/subway.PNG width = 70 height = 70/> 
 >**Public Subway**
 > * **소개**: 지하철 역 주변 건물들을 **공공 데이터**로 받아 어떤 것들이 있는지 알려주는 앱
 > * **기술**: Java, Android, RestAPI
 > * **사이드 프로젝트**
 > * **[GitHub][public_subway]**  
 
+<br><br>
 >**MuscleKim**
 > * **소개**: **알람**을 맞춰주는 앱
 > * **기술**: Flutter, Android, IOS, RestAPI
