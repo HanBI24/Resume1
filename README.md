@@ -101,11 +101,12 @@
 > * **알고리즘**: CNN (Convolutional Neural Networks)
 > * **역할**: Model 구현 및 Batch 정규화
 
-&nbsp; <img src = resume/miro.PNG width = 60 height = 60/>
+&nbsp; <img src = resume/miro.PNG width = 100 height = 100/>
 >**VR Mase**
 > * **소개**: **VR** 미로찾기 게임
 > * **기술**: C#, Unity
 > * **역할**: 맵 배치 및 캐릭터 이동 구현
+> * **[상세보기][go_vr]**
 
 >**Online Judge**
 > * **소개**: 온라인 알고리즘 **문제풀이 페이지**
@@ -221,3 +222,4 @@ _____
 [public_subway]: https://github.com/HanBI24/PublicData-Subway
 [muscle]: https://github.com/HanBI24/muscle_kim_flutter_refactoring
 [snap_git]: https://github.com/BSAA7567/SNAP-WIFI
+[go_vr]: https://github.com/HanBI24/Resume1/blob/main/resume/miro_project.md
