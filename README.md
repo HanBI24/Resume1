@@ -20,8 +20,8 @@
    **현역 군필**입니다
   
 *  **취미**  
-    >[<img src = resume/youtube.png width = 25 height = 17/>][youtube] 
-    [<img src = resume/netflix.png width = 50 height = 25/>][netflix]  
+    >[<img src = img/youtube.png width = 25 height = 17/>][youtube] 
+    [<img src = img/netflix.png width = 50 height = 25/>][netflix]  
    **코딩, 쇼핑, 여행 🛫**
 
   * **GitHub** <br>[![github](https://img.shields.io/badge/GitHub-GitHub_page-black?logo=github)](https://github.com/HanBI24)<br>
@@ -54,43 +54,43 @@
 
 > **Android**  
 > 주 개발은 **Android**이며, 현재 **MVC, MVP, MVVM** 등 **Android Architecture**를 공부하고 있습니다.  
-[<img src = resume/java.png width = 35 height = 40/>][java]
-[<img src = resume/kotlin.png width = 35 height = 40/>][kotlin]
-[<img src = resume/dart.png width = 75 height = 45/>][dart]
+[<img src = img/java.png width = 35 height = 40/>][java]
+[<img src = img/kotlin.png width = 35 height = 40/>][kotlin]
+[<img src = img/dart.png width = 75 height = 45/>][dart]
 
 > **Framework**  
 > **Flutter**와 **Vue.js**는 **Cross Platform** 개발을 위해 사용합니다.   
-> [<img src = resume/flutter.png width = 90 height = 30/>][flutter] <img src = resume/vue.png width = 30 height = 30/> 
+> [<img src = img/flutter.png width = 90 height = 30/>][flutter] <img src = img/vue.png width = 30 height = 30/> 
 
 > **BackEnd**  
 > 서버는 **FireBase**를 주로 사용하지만, 규모가 큰 프로젝트는 **Django**를 사용합니다.현재 Django는 공부 중입니다.  
-<img src = resume/firepng.png width = 90 height = 35/> <img src = resume/django.png width = 70 height = 30/>
+<img src = img/firepng.png width = 90 height = 35/> <img src = img/django.png width = 70 height = 30/>
 
 > **Algorithm**  
 > **Python**은 **Pseudocode**로 사용하며, **실질적인 구현**은 **Java**로 합니다.  
-[<img src = resume/java.png width = 35 height = 40/>][java]
-[<img src = resume/python.png width = 37 height = 40/>][python]  
+[<img src = img/java.png width = 35 height = 40/>][java]
+[<img src = img/python.png width = 37 height = 40/>][python]  
 
 > **UI/UX**  
 > 개발 초창기엔 종이에 **프로토타입**을 그렸지만, 현재는 **Adobe XD**로 사용합니다.  
-> <img src = resume/xd.png width = 40 height = 40/>  
+> <img src = img/xd.png width = 40 height = 40/>  
 
 > **IDE**  
 > **InteliJ**를 좋아합니다.  
-[<img src = resume/as.png width = 40 height = 40/>][androidd_studio]
-[<img src = resume/vscode.png width = 35 height = 35/>][visual_studio]
-[<img src = resume/vs.png width = 60 height = 40/>][vscode] <img src = resume/pc.png width = 40 height = 40/>
+[<img src = img/as.png width = 40 height = 40/>][androidd_studio]
+[<img src = img/vscode.png width = 35 height = 35/>][visual_studio]
+[<img src = img/vs.png width = 60 height = 40/>][vscode] <img src = img/pc.png width = 40 height = 40/>
 
 > **Tools**  
 > **버전 관리**에 많이 사용합니다.  
-[<img src = resume/git.png width = 70 height = 30/>][git]&nbsp;
-[<img src = resume/github.png width = 40 height = 30/>][github]
+[<img src = img/git.png width = 70 height = 30/>][git]&nbsp;
+[<img src = img/github.png width = 40 height = 30/>][github]
 
 -----------------
 
 ### **4. 프로젝트 경험**  
  ### - 2018년  <br><br>
- &nbsp; <img src = resume/resize.PNG width = 100 height = 100/>
+ &nbsp; <img src = img/resize.PNG width = 100 height = 100/>
 >**Image Resizing**
 > * **소개**: 해상도 낮은 이미지를 높여주는 **딥러닝** 프로젝트
 > * **기술**: Python, Tensorflow
@@ -100,7 +100,7 @@
 
 <br>
 
-&nbsp; <img src = resume/miro.PNG width = 100 height = 100/>
+&nbsp; <img src = img/miro.PNG width = 100 height = 100/>
 >**VR Mase**
 > * **소개**: **VR** 미로찾기 게임
 > * **기술**: C#, Unity
@@ -109,7 +109,7 @@
 
 <br>
 
-&nbsp; <img src = resume/react.png width = 100 height = 70/> 
+&nbsp; <img src = img/react.png width = 100 height = 70/> 
 >**Online Judge**
 > * **소개**: 온라인 알고리즘 **문제풀이 페이지**
 > * **기술**: ~~HTML, CSS, JavaScript, php, AWS~~ ***(현재는 React Native로 변경**)*
@@ -120,7 +120,7 @@
  ### - 2020년  
  <br>
 
- &nbsp; [<img src = resume/shortcut.PNG width = 100 height = 80/>][snap] 
+ &nbsp; [<img src = img/shortcut.PNG width = 100 height = 80/>][snap] 
 >**Shortcut Next**
 > * **소개**: 안드로이드 화면에 **항상 상주**하며 **앱 바로가기**를 활성화하는 앱
 > * **기술**: Java, Android, OpenSource
@@ -130,7 +130,7 @@
 
 <br>
 
-&nbsp; <img src = resume/infinite.png width = 70 height = 70/> 
+&nbsp; <img src = img/infinite.png width = 70 height = 70/> 
 >**Infinite Text**
 > * **소개**: 안드로이드 텍스트 혹은 이미지를 **원하는 만큼 출력**하는 앱
 > * **기술**: Java, Android, RealM
@@ -141,7 +141,7 @@
 
 <br>
 
-&nbsp; <img src = resume/subway.PNG width = 120 height = 80/> 
+&nbsp; <img src = img/subway.PNG width = 120 height = 80/> 
 >**Public Subway**
 > * **소개**: 지하철 역 주변 건물들을 **공공 데이터**로 받아 어떤 것들이 있는지 알려주는 앱
 > * **기술**: Java, Android, RestAPI
@@ -159,7 +159,7 @@
 -----------------
 
 ### **5. 개발한 앱**
-&nbsp; [<img src = resume/snap.jpg width = 60 height = 60/>][snap]  
+&nbsp; [<img src = img/snap.jpg width = 60 height = 60/>][snap]  
 > **SNAP WIFI** 
 > * **소개**: 카페나 PC방 등 **와이파이 비밀번호**를 사진으로 찍으면 **와이파이가 자동으로 연결**되는 앱.
 > * **기술**: Java, Android, OCR, OpenSource
@@ -235,5 +235,5 @@ _____
 [public_subway]: https://github.com/HanBI24/PublicData-Subway
 [muscle]: https://github.com/HanBI24/muscle_kim_flutter_refactoring
 [snap_git]: https://github.com/BSAA7567/SNAP-WIFI
-[go_vr]: https://github.com/HanBI24/Resume1/blob/main/resume/miro_project.md
+[go_vr]: https://github.com/HanBI24/Resume1/blob/main/img/miro_project.md
 [go_image]: https://github.com/HanBI24/Resume1/blob/main/image_resize_project.md
