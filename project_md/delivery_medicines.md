@@ -93,7 +93,8 @@ contract UserAddress {
 }
 ```
 
-## **- JS (메인 페이지)**
+## **- JS (계약에 필요한 파일)**
+### **계약에 필요한 파일 생성**
 ```javascript
 // 4_UserAddress.js
 // 새로만든 UserAddress.sol 파일의 exports 시킴.
@@ -106,6 +107,7 @@ module.exports = function(deployer) {
 };
 ```
 
+## **- JS (메인 페이지)**
 ### **JSON 파일에서 필요한 의약품 데이터 로딩**
 ```javascript
 // app.js
