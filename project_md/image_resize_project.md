@@ -8,7 +8,7 @@
 1. **데이터 모음**  
 처음 데이터를 모으기 시작할 때는 이미지를 무료 제공하여 주는 픽사베이에서 하나씩 다운을 받았습니다. 그러나 필요한 데이터의 수량을 일일이 다운을 받아서 모으기에는 시간이 너무 많이 걸리기 때문에 지정한 페이지에 존재하는 이미지를 전부 다운을 받아주는 앱과 프로그램을 찾아보았고 그 중 Httrack Website Copier를 이용하여 픽사베이에서 강아지의 실제 이미지에 해당하는 것만을 다운을 받기 위하여 조건을 .jpg와 .jpeg로만 설정하여 다운을 받았습니다. <br><br> 그 후 Google Vision API를 이용하여서 개의 얼굴 부분만을 추출하려 하였으나 실패하였습니다. 그러나 조원들과의 토의 결과 프로젝트의 목표가 이미지의 픽셀을 복원하는 것이기 때문에 추출할 필요가 없었습니다. 이미지의 픽셀을 낮추기 위해서 16*16사이즈로 리사이즈를 하였고 픽셀을 복원을 비교하기 위한 사진을 32*32사이즈로 리사이즈를 하여서 output으로 설정하였습니다.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = resume/pro.PNG width = 500 height = 300/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = ../img/pro.PNG width = 500 height = 300/>
 
 1. **배치처리**  
 텐서플로를 이용한 기계학습 모델 작성 시 지금까지 해왔던 MNIST처럼 입력 데이터들이 항상 보기 좋게 정리되어 있진 않습니다. 실제로의 입력 데이터들은 적재나 분류 작업 같은 손 가는 일이 많다고 합니다. 그래서 입력 데이터를 입력받을 때 효율적으로 입력을 받을 파일 처리 작업을 다루어 봅니다. 작업 처리에는 주로 큐 방식을 이용한다고 합니다.<br><br>
@@ -16,13 +16,13 @@
 그러나 이러한 피딩은 메모리에 모두 적재 되어야 특징이 있는데 실제로 모델 학습 때는 데이터양이 무수하기에 오버플로우 같은 문제로 모두 적재하고 학습시킬 수 없습니다. 해결책으론 파일에서 데이터를 읽어가면서 읽어드린 순서로 모델에 피딩을 하는 것이 이것이 큐 방식입니다. <br><br>  
 큐에는 데이터가 들어갈 때 큐 러너라는 곳에서 들어오는데 큐에 데이터를 어떻게 넣을지 정의 같은 작업을 맡습니다. 이러한 큐 러너는 멀티 쓰레드로 작동하고 이러한 쓰레드들 역시 별도로 코디네이터라는 곳에서 관리합니다.
 멀티 쓰레드 성질 덕에 쓰레드가 각기 다른 값이어도 랜덤하게 실행되어 데이터에 들어 가집니다. 파일 처리에는 큐뿐만 아니라 리더, 디코더 같은 부가적인 기능도 제공합니다. 리더는 파일에서 데이터를 읽어오는 컴포넌트로 파일명이 저장된 큐에서 하나씩 읽어 들이며 각기 파일에 맞는 형태를 리턴 하는 컴포넌트입니다. 디코더는 리더에서 읽어 들인 데이터가 아직 해석된 데이터가 아니라 각 필드 데이터값 같은 해석된 파일로 리턴 하는 컴포넌트입니다. <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = resume/ju_1.PNG width = 500 height = 300/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = ../img/ju_1.PNG width = 500 height = 300/>  
 이러한 큐, 리더, 디코더를 이용해 파일에서 데이터를 읽어 학습 데이터로 사용하기 위한 변환 작업을 하게 되면 이렇게 변환된 데이터를 읽어 들이는 전처리 작업 배치 처리를 다룰 수 있게 됩니다.
 read_data 함수에서 csv 파일을 읽어 들여 파일 안에 있는 내용물들을 즉 필드 값들을 ‘,’ 기준으로 분류해 각기 형태에 맞는 변수로 read_data_batch 함수에 리턴 해줍니다. 이 함수가 리더와 디코더를 이용해 돌아갑니다.
 read_data_batch 함수는 read_data 함수에 리턴 받을 변수를 선언해 값을 받은 다음 tf.train.batch 함수를 통해 정해둔 배치 값만큼의 배치 크기로 묶어 메인에 리턴 합니다. 즉 기존 입력 크기가 [x,y,z]였을 경우 배치처리를 통해 크기가 [batch_size,x,y,z]로 변환됩니다.<br><br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = resume/ju_2.PNG width = 500 height = 300/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = ../img/ju_2.PNG width = 500 height = 300/>  
 메인에선 배치처리까지 끝났으니 큐를 이용해 피딩 작업을 수행합니다. 큐, 큐 러너, 코디네이터, 멀티 쓰레드를 구현한다고 보면 됩니다.<br><br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = resume/ju_3.PNG width = 500 height = 300/>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = ../img/ju_3.PNG width = 500 height = 300/>  
 결과 배치 사이즈 만큼 배치처리가 되어 결과가 출력됨을 볼 수 있습니다.
 배치처리가 무엇인지 학습한 뒤로는 바로 작업에 들어갑니다.
 이미지는 강아지 이미지들로만 준비되어 있으며 16 혹은 32 사이즈로 리사이즈 된 상태입니다.
@@ -44,7 +44,7 @@ CSV 작성 작업이 끝나면 배치처리 작업을 수행합니다.
 이미지 복원과 모자이크 제거 등의 작업에서 좋은 성능을 얻기 위해 CNN을 이용한 모델을 설명합니다. 우리의 모델은 16x16 사이즈의 컬러 이미지를 32x32 사이즈로 복원하는 것이 목표입니다.<br>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = resume/cnn.PNG width = 600 height = 150/> <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = ../img/cnn.PNG width = 600 height = 150/> <br><br>
 
 * **Image High Resolution**
 
@@ -53,7 +53,7 @@ CSV 작성 작업이 끝나면 배치처리 작업을 수행합니다.
 * **실험결과**
 우리는 실험에 약 9000개의 학습 이미지와 1000개의 테스트 이미지를 사용하였습니다. Batch size는 64개이고 optimizer은 Adam을 사용합니다.
 			
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = resume/result.PNG width = 500 height = 150/> <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = ../img/result.PNG width = 500 height = 150/> <br><br>
 
 <그림 2>는 테스트 데이터의 타겟 이미지이고 <그림 3>은 모델이 예측한 이미지입니다. 아주 간단한 모델이지만 매우 좋은 결과를 낸다는 것을 확인할 수 있습니다.<br><br>
 

@@ -26,7 +26,7 @@
 
 - 맵 디자인에는 미로를 직접 그리려고 했으나 잘 구현이 되자 않아 인터넷을 참고했다. 미로의 벽과 캐릭터는 Cube 오브젝트를 사용하였고, 땅은 Plane 오브젝트를 사용하였다. 오브젝트의 이름은 혼동이 오지 않게 Cube, Player, Plane으로 설정했다.  <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = asset_info.PNG width = 400 height = 60/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = ../img/asset_info.PNG width = 400 height = 60/>
 <br><br>
 
 
@@ -49,7 +49,7 @@
  
 <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = cpp_1.PNG width = 3500 height = 350/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = ../img/cpp_1.PNG width = 3500 height = 350/>
 <br><br>
 
 
@@ -71,7 +71,7 @@
 
 - 캐릭터의 움직임구현은 끝났지만, 카메라가 따라오지 않아 3인칭 시점이 되어 버렸다. 지금 나오는 코드는 캐릭터의 1인칭 시점으로 보이게 하는 코드이다. 클래스이름은 follow.sc다.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = cpp_2.PNG width = 3500 height = 350/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = ../img/cpp_2.PNG width = 3500 height = 350/>
 <br><br>
 
 
@@ -97,7 +97,7 @@
 - 유니티 내에선 정상 작동 하지만 실제 인 앱에서도 제대로 되는지 확인 여부 필요 APK를 추출하고 핸드폰에 앱을 추가해 VR 디바이스에 연결 및 앱 테스트를 했다.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = miro.PNG width = 400 height = 300/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = ../img/miro.PNG width = 400 height = 300/>
 -----------------
 
 <br><br>
