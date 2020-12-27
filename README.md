@@ -156,6 +156,30 @@
 > * **사이드 프로젝트**
 > * **Flutter에 대한 전반적인 이해**를 하기 위해 개발
 > * **[GitHub][muscle]**  
+
+<br>
+
+&nbsp; <img src = img/slender.PNG width = 220 height = 100/> 
+>**Public Subway**
+> * **소개**: 슬렌더맨 게임
+> * **기술**: Unity, C#
+> * **특이사항**: 교내대회 우수상
+> * **[GitHub][slender_man]**  
+> * **[상세보기][slender_man]**  
+
+<br>
+
+<br>
+
+&nbsp; <img src = img/del_img.PNG width = 100 height = 80/> 
+>**Public Subway**
+> * **소개**: 블록체인을 이용하여 약 배달을 실현하기 위한 프로젝트
+> * **기술**: Ethereum, Solidity, JQuery, Boot Strap
+> * **특이사항**: 교내대회 최우수상
+> * **[GitHub][delivery_medicine]**  
+> * **[상세보기][slender_man]**  
+
+<br>
 -----------------
 
 ### **5. 개발한 앱**
@@ -237,3 +261,5 @@ _____
 [snap_git]: https://github.com/BSAA7567/SNAP-WIFI
 [go_vr]: https://github.com/HanBI24/Resume1/blob/main/img/miro_project.md
 [go_image]: https://github.com/HanBI24/Resume1/blob/main/image_resize_project.md
+[delivery_medicine]: https://github.com/HanBI24/Delivery_Medicine
+[slender_man]: https://github.com/HanBI24/Slender_Man
