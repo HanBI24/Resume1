@@ -165,7 +165,7 @@
 > * **기술**: Unity, C#
 > * **특이사항**: 교내대회 우수상
 > * **[GitHub][slender_man]**  
-> * **[상세보기][slender_man]**  
+> * **[상세보기][go_slender]**  
 
 <br>
 
@@ -177,7 +177,7 @@
 > * **기술**: Ethereum, Solidity, JQuery, Boot Strap
 > * **특이사항**: 교내대회 최우수상
 > * **[GitHub][delivery_medicine]**  
-> * **[상세보기][slender_man]**  
+> * **[상세보기][go_block]**  
 
 <br>
 -----------------
@@ -263,3 +263,5 @@ _____
 [go_image]: https://github.com/HanBI24/Resume1/blob/main/image_resize_project.md
 [delivery_medicine]: https://github.com/HanBI24/Delivery_Medicine
 [slender_man]: https://github.com/HanBI24/Slender_Man
+[go_slender]: https://github.com/HanBI24/Resume1/blob/main/project_md/slender_man.md
+[go_block]: https://github.com/HanBI24/Resume1/blob/main/project_md/delivery_medicines.md
