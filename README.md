@@ -183,8 +183,11 @@
 
 >**Angel Kitchen**
 > * **소개**: 취약 계층을 위한 무료 급식소 안내 서비스 천사식당 앱
+> * **특이사항**: 오픈SW 개발자 대회 출전용 앱  
+> * **[GitHub][angel_kitchen]**  
+> * **[상세보기][angel_kitchen_info]** 
 > * **사용한 기술**
-> <table class="tg">
+<table class="tg">
 <tbody>
 <tr>
     <td><b>Design Pattern</b></td>
@@ -226,13 +229,6 @@
 </tbody>
 </table>
 
-<br>
-
- * **특이사항**: 오픈SW 개발자 대회 출전용 앱  
- * **[GitHub][angel_kitchen]**  
-* **[상세보기][angel_kitchen_info]**  
-
-<br>
 -----------------  
 
 ### **5. 개발한 앱**
