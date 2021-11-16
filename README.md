@@ -84,8 +84,7 @@
 > **Tools**  
 > Git은 **버전 관리**에 많이 사용하고, **Jira**를 통해 협업을 진행합니다.  
 [<img src = img/git.png width = 70 height = 30/>][git]&nbsp;
-[<img src = img/github.png width = 40 height = 30/>][github]
-<img src = img/jira.png width = 100 height = 30/>
+[<img src = img/github.png width = 40 height = 30/>][github]&nbsp;<img src = img/jira.png width = 100 height = 30/>
 
 -----------------
 
@@ -281,7 +280,7 @@
 --------------------- 
 
 ### **8. 경력**
-* 안드로이드 프로그래밍 강사 (2020.06 ~ 2020.09) 👨‍🏫
+* 안드로이드 앱 프로그래밍 강사 (2020.06 ~ 2020.09) 👨‍🏫
 
 _____  
 
