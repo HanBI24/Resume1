@@ -10,7 +10,7 @@
 ### **1. 인적 사항** <br>
 
 *  **이름 및 나이**  
-  **24살**(1997.11.05) **김성곤**입니다.  
+  **25살**(1997.11.05) **김성곤**입니다.  
   
 *  **학력**  
   **2016**학번 
@@ -53,26 +53,26 @@
 ### **3. 주로 사용하는 기술 및 IDE**  
 
 > **Android**  
-> 주 개발은 **Android**이며, 현재 **MVC, MVP, MVVM** 등 **Android Architecture**를 공부하고 있습니다.  
+> 주 개발은 **Android**이며, 현재 **MVVM, MVI, Redux** 등 **Android Design Pattern**과 **Clean Architecture**를 공부하고 있습니다.  
 [<img src = img/java.png width = 35 height = 40/>][java]
 [<img src = img/kotlin.png width = 35 height = 40/>][kotlin]
 [<img src = img/dart.png width = 75 height = 45/>][dart]
 
 > **Framework**  
-> **Flutter**와 **Vue.js**는 **Cross Platform** 개발을 위해 사용합니다.   
-> [<img src = img/flutter.png width = 90 height = 30/>][flutter] <img src = img/vue.png width = 30 height = 30/> 
+> **Flutter**는 **Cross Platform** 개발을 위해 사용합니다.   
+> [<img src = img/flutter.png width = 90 height = 30/>][flutter] 
 
 > **BackEnd**  
-> 서버는 **FireBase**를 주로 사용하지만, 규모가 큰 프로젝트는 **Django**를 사용합니다.현재 Django는 공부 중입니다.  
-<img src = img/firepng.png width = 90 height = 35/> <img src = img/django.png width = 70 height = 30/>
+> 서버는 **FireBase**를 주로 사용하지만, 규모가 큰 프로젝트는 **NodeJS**를 사용합니다. 현재 **NodeJS**는 공부 중입니다.  
+<img src = img/firepng.png width = 90 height = 35/> <img src = img/nodejs.png width = 70 height = 40/>
 
 > **Algorithm**  
-> **Python**은 **Pseudocode**로 사용하며, **실질적인 구현**은 **Java**로 합니다.  
-[<img src = img/java.png width = 35 height = 40/>][java]
-[<img src = img/python.png width = 37 height = 40/>][python]  
+> **Python**은 **Pseudocode**로 사용하며, **실질적인 구현**은 **Kotlin**로 합니다.    
+[<img src = img/python.png width = 37 height = 40/>][python] 
+[<img src = img/kotlin.png width = 35 height = 40/>][kotlin]
 
 > **UI/UX**  
-> 개발 초창기엔 종이에 **프로토타입**을 그렸지만, 현재는 **Adobe XD**로 사용합니다.  
+> 개발 초창기엔 종이에 **청사진**을 그렸지만, 현재는 **Adobe XD**를 사용합니다.  
 > <img src = img/xd.png width = 40 height = 40/>  
 
 > **IDE**  
@@ -82,9 +82,10 @@
 [<img src = img/vs.png width = 60 height = 40/>][vscode] <img src = img/pc.png width = 40 height = 40/>
 
 > **Tools**  
-> **버전 관리**에 많이 사용합니다.  
+> Git은 **버전 관리**에 많이 사용하고, **Jira**를 통해 협업을 진행합니다.  
 [<img src = img/git.png width = 70 height = 30/>][git]&nbsp;
 [<img src = img/github.png width = 40 height = 30/>][github]
+<img src = img/jira.png width = 100 height = 30/>
 
 -----------------
 
@@ -112,7 +113,7 @@
 &nbsp; <img src = img/react.png width = 100 height = 70/> 
 >**Online Judge**
 > * **소개**: 온라인 알고리즘 **문제풀이 페이지**
-> * **기술**: ~~HTML, CSS, JavaScript, php, AWS~~ ***(현재는 React Native로 변경**)*
+> * **기술**: ~~HTML, CSS, JavaScript, php, AWS~~ ***(현재는 React로 변경**)*
 > * **역할**: 문제 풀이 페이지 개발  
 
 <br>
@@ -125,7 +126,6 @@
 > * **소개**: 안드로이드 화면에 **항상 상주**하며 **앱 바로가기**를 활성화하는 앱
 > * **기술**: Java, Android, OpenSource
 > * **사이드 프로젝트**
-> * **진행중**
 > * **[GitHub][short_cut]**
 
 <br>
@@ -135,7 +135,6 @@
 > * **소개**: 안드로이드 텍스트 혹은 이미지를 **원하는 만큼 출력**하는 앱
 > * **기술**: Java, Android, RealM
 > * **사이드 프로젝트**
-> * **진행중**
 > * **Android Local DB**에 대해 공부하기 위해 개발
 > * **[GitHub][infinite]**
 
@@ -152,9 +151,10 @@
 
 >**MuscleKim**
 > * **소개**: **알람**을 맞춰주는 앱
-> * **기술**: Flutter, Android, IOS, RestAPI
+> * **기술**: Android
 > * **사이드 프로젝트**
-> * **Flutter에 대한 전반적인 이해**를 하기 위해 개발
+> * **Flutter에 대한 전반적인 이해**를 하기 위해 개발  
+> * 다운로드 수 **1천회 돌파** 및 **평균 평점 4.5점**
 > * **[GitHub][muscle]**  
 
 <br>
@@ -163,7 +163,7 @@
 >**Slender Man**
 > * **소개**: 슬렌더맨 게임
 > * **기술**: Unity, C#
-> * **특이사항**: 교내대회 우수상
+> * **특이사항**: 교내 대회 **우수상**
 > * **[GitHub][slender_man]**  
 > * **[상세보기][go_slender]**  
 
@@ -173,14 +173,67 @@
 
 &nbsp; <img src = img/del_img.png width = 100 height = 80/> 
 >**Delivery Medicines**
-> * **소개**: 블록체인을 이용하여 약 배달을 실현하기 위한 프로젝트
+> * **소개**: 블록체인을 이용하여 **약 배달을 실현**하기 위한 프로젝트
 > * **기술**: Ethereum, Solidity, JQuery, Boot Strap
-> * **특이사항**: 교내대회 최우수상
+> * **특이사항**: 교내 대회 **최우수상**
 > * **[GitHub][delivery_medicine]**  
 > * **[상세보기][go_block]**  
 
+<br>  
+
+>**Angel Kitchen**
+> * **소개**: 취약 계층을 위한 무료 급식소 안내 서비스 천사식당 앱
+> * **사용한 기술**
+> <table class="tg">
+<tbody>
+<tr>
+    <td><b>Design Pattern</b></td>
+<td>MVVM Pattern, RxKotlin, Repository Pattern, Delegation Pattern, Observer Pattern</td>
+</tr>
+<tr>
+    <td><b>Jetpack Components</b></td>
+<td>DataBinding, ViewBinding, LiveData, ViewModel, Lifecycle, Navigation, Room</td>
+</tr>
+<tr>
+    <td><b>Dependency Injection</b></td>
+<td>Dagger-Hilt</td>
+</tr>
+<tr>
+    <td><b>Network</b></td>
+<td>OkHttp3, Retrofit2</td>
+</tr>
+<tr>
+    <td><b>Asynchronous Processing</b></td>
+<td>Coroutine</td>
+</tr>
+<tr>
+    <td><b>Third Party Library</b></td>
+    <td>Timber, Android-Stepper, TedPermission, Lottie, Coil, BottomDrawer, License Dialog, CarouselRecyclerView</td>
+
+</tr>
+<tr>
+    <td><b>API</b></td>
+<td>Naver Map API, Direction 5 API, Geocoding, Reverse Geocoding API, Heroku Server API</td>
+</tr>
+    <tr>
+    <td><b>UX/UI</b></td>
+<td>Material Design</td>
+</tr>
+<tr>
+    <td><b>Other Tools</b></td>
+<td>Git, Jira</td>
+</tr>
+</tbody>
+</table>
+
 <br>
------------------
+
+ * **특이사항**: 오픈SW 개발자 대회 출전용 앱  
+ * **[GitHub][angel_kitchen]**  
+* **[상세보기][angel_kitchen_info]**  
+
+<br>
+-----------------  
 
 ### **5. 개발한 앱**
 &nbsp; [<img src = img/snap.jpg width = 60 height = 60/>][snap]  
@@ -190,7 +243,7 @@
 > * **기간**
 > > * **개발 시작(v1.0)**: 2018.03 ~ 2018.06
 > > * **리팩토링(v2.0)**: 2020.06 ~ 2020.07  
-> 
+> * 다운로드 수 **3천회 돌파**
 > * **[GitHub][snap_git]**
 > * **[Google Play][snap]**
 
@@ -220,7 +273,15 @@
 
 **- 2017년**  
 > - 제 23회 서울특별시 IT 창의성 대회 프로그래밍 전문가 부문 은상  
-> - ICT 어워드 코리아 알고리즘 프로그래밍 부문 대학부 장려상
+> - ICT 어워드 코리아 알고리즘 프로그래밍 부문 대학부 장려상  
+
+<br>
+
+**- 2020년**  
+> - 한림대학교 이력서 작성 대회 은상
+> - 한림대학교 오픈소스 관련 에세이 공모전 우수상
+> - 한림대학교 게임 개발 공모전 우수상 (Slender Man)
+> - 한림대학교 오픈소스 활용 소프트웨어 개발 공모전 최우수상 (Delivery Medicines)
 --------------------- 
 
 ### **8. 경력**
@@ -265,3 +326,5 @@ _____
 [slender_man]: https://github.com/HanBI24/Slender_Man
 [go_slender]: https://github.com/HanBI24/Resume1/blob/main/project_md/slender_man.md
 [go_block]: https://github.com/HanBI24/Resume1/blob/main/project_md/delivery_medicines.md
+[angel_kitchen]: https://github.com/OpenSW-TeamLC/Angel-Kitchen
+[angel_kitchen_info]: https://github.com/OpenSW-TeamLC/Angel-Kitchen/wiki
