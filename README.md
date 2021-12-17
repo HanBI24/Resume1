@@ -232,6 +232,16 @@
 </tbody>
 </table>
 
+<br>
+
+>**ML-Accident**
+> * **소개**: 차량 공유 플랫폼을 위한 차량 사고 판별 앱
+> * **특이사항**: 2021년도 2학기 캡스톤 디자인 **은상**  
+> * **사용한 기술: CNN, TensorFlow Lite, Android(Java, NDK)**
+> * **[GitHub][ml_acc]**  
+> <img src = img/ml_acc_struct.png width = 350 height = 150/>
+> <img src = img/ml_acc_bp.png width = 230 height = 150/>
+
 -----------------  
 
 ### **5. 개발한 앱**
@@ -279,13 +289,14 @@
 **- 2020년**  
 > - 한림대학교 이력서 작성 대회 은상
 > - 한림대학교 오픈소스 관련 에세이 공모전 우수상
-> - 한림대학교 게임 개발 공모전 우수상 (Slender Man)
-> - 한림대학교 오픈소스 활용 소프트웨어 개발 공모전 최우수상 (Delivery Medicines)  
+> - 한림대학교 게임 개발 공모전 우수상 **(Slender Man)**
+> - 한림대학교 오픈소스 활용 소프트웨어 개발 공모전 최우수상 **(Delivery Medicines)**  
 
 <br>
 
 **- 2021년**  
 > - 제 5회 지역사회공헌 아이디어톤 공모전 장려상    
+> - 2021년 2학기 캡스톤 디자인 은상 수상 **(Awesome_ML-Accident)**
 --------------------- 
 
 ### **8. 경력**
@@ -332,3 +343,4 @@ _____
 [go_block]: https://github.com/HanBI24/Resume1/blob/main/project_md/delivery_medicines.md
 [angel_kitchen]: https://github.com/OpenSW-TeamLC/Angel-Kitchen
 [angel_kitchen_info]: https://github.com/OpenSW-TeamLC/Angel-Kitchen/wiki
+[ml_acc]: https://github.com/HanBI24/Awesome_ML-Accident
