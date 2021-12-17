@@ -239,8 +239,8 @@
 > * **특이사항**: 2021년도 2학기 캡스톤 디자인 **은상**  
 > * **사용한 기술: CNN, TensorFlow Lite, Android(Java, NDK)**
 > * **[GitHub][ml_acc]**  
-> <img src = img/ml_acc_struct.png width = 350 height = 150/>
-> <img src = img/ml_acc_bp.png width = 230 height = 150/>
+> <img src = img/ml_acc_struct.png width = 600 height = 250/>
+> <img src = img/ml_acc_bp.png width = 500 height = 350/>
 
 -----------------  
 
