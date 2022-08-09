@@ -10,7 +10,7 @@
 ### **1. 인적 사항** <br>
 
 *  **이름 및 나이**  
-  **25살**(1997.11.05) **김성곤**입니다.  
+  **26살**(1997.11.05) **김성곤**입니다.  
   
 *  **학력**  
   **2016**학번 
@@ -29,6 +29,7 @@
   
 ----------------  
 
+<!--
 ### **2. 최근 관심사**
 ```
   다양한 프로그래밍 언어와 프레임워크, 그리고 최신 기술에 대해 관심이 많습니다. 관심 갖고 있는 것은 무엇이 되었든 먼저 해보는 스타일이며, 
@@ -49,11 +50,12 @@
  편이며, 실내에선 영화를 보거나 요리를 하며, 개발자가 가져야할 인성과 소양, 마음가짐에 대해 공부하고 있습니다.
 ```
 ----------------------
+-->
 
 ### **3. 주로 사용하는 기술 및 IDE**  
 
 > **Android**  
-> 주 개발은 **Android**이며, 현재 **MVVM, MVI, Redux** 등 **Android Design Pattern**과 **Clean Architecture**를 공부하고 있습니다.  
+> 주 개발은 **Android**이며, 현재 **MVVM, Clean Architecture** 등 **Android Design Pattern**과 **DI**에 대해 공부하고 있습니다.  
 [<img src = img/java.png width = 35 height = 40/>][java]
 [<img src = img/kotlin.png width = 35 height = 40/>][kotlin]
 [<img src = img/dart.png width = 75 height = 45/>][dart]
@@ -240,8 +242,17 @@
 > * **사용한 기술: CNN, TensorFlow Lite, Android(Java, NDK)**
 > * **[GitHub][ml_acc]**  
 > <img src = img/ml_acc_struct.png width = 600 height = 250/>
-> <img src = img/ml_acc_bp.png width = 500 height = 350/>
+> <img src = img/ml_acc_bp.png width = 500 height = 350/>  
 
+
+### - 2022년   
+
+>**HotPl Navigation**
+> * **소개**: 현 위치 기준으로 목적지를 설정하면, 목적지 경로 주변 맛집, 관광명소, 숙박 등을 소개하는 앱
+> * **사용한 기술:Kotlin, Android, Naver API**
+> * **[GitHub][hotpl_navi]**  
+> <img src = img/navi1.png width = 800 height = 250/>
+> <img src = img/navi2.png width = 800 height = 300/>  
 -----------------  
 
 ### **5. 개발한 앱**
@@ -344,3 +355,4 @@ _____
 [angel_kitchen]: https://github.com/OpenSW-TeamLC/Angel-Kitchen
 [angel_kitchen_info]: https://github.com/OpenSW-TeamLC/Angel-Kitchen/wiki
 [ml_acc]: https://github.com/HanBI24/Awesome_ML-Accident
+[hotpl_navi]: https://github.com/HanBI24/2022_1_Capston_HotPl-Navigation
