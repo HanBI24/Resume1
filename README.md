@@ -65,12 +65,11 @@
 > [<img src = img/flutter.png width = 90 height = 30/>][flutter] 
 
 > **BackEnd**  
-> 서버는 **FireBase**를 주로 사용하지만, 규모가 큰 프로젝트는 **NodeJS**를 사용합니다. 현재 **NodeJS**는 공부 중입니다.  
-<img src = img/firepng.png width = 90 height = 35/> <img src = img/nodejs.png width = 70 height = 40/>
+> 서버는 **FireBase**를 주로 사용합니다.
+<img src = img/firepng.png width = 90 height = 35/>  
 
 > **Algorithm**  
-> **Python**은 **Pseudocode**로 사용하며, **실질적인 구현**은 **Kotlin**로 합니다.    
-[<img src = img/python.png width = 37 height = 40/>][python] 
+> **Kotlin**로 합니다.   
 [<img src = img/kotlin.png width = 35 height = 40/>][kotlin]
 
 > **UI/UX**  
