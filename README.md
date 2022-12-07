@@ -254,7 +254,7 @@
 > > * **리팩토링(v2.0)**: 2020.06 ~ 2020.07  
 > * 다운로드 수 **3천회 돌파**
 > * **[GitHub][snap_git]**
-> * **[Google Play][muscle_play]**
+> * **[Google Play][snap]**
 
 <br>
 
@@ -263,7 +263,7 @@
 > * **기술**: Android
 > * **사이드 프로젝트**
 > * 다운로드 수 **3천회 돌파** 및 **평균 평점 4.7점**  
-> * **[Google Play][https://play.google.com/store/apps/details?id=muscle.kim.musclekim]**
+> * **[Google Play][muscle_play]**
 
 -----------------
 ### **6. 취득 자격증 🎫**
