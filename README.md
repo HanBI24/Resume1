@@ -149,16 +149,6 @@
 
 <br>
 
->**MuscleKim**
-> * **소개**: **알람**을 맞춰주는 앱
-> * **기술**: Android
-> * **사이드 프로젝트**
-> * **Flutter에 대한 전반적인 이해**를 하기 위해 개발  
-> * 다운로드 수 **1천회 돌파** 및 **평균 평점 4.5점**
-> * **[GitHub][muscle]**  
-
-<br>
-
 &nbsp; <img src = img/slender.png width = 220 height = 100/> 
 >**Slender Man**
 > * **소개**: 슬렌더맨 게임
@@ -264,7 +254,16 @@
 > > * **리팩토링(v2.0)**: 2020.06 ~ 2020.07  
 > * 다운로드 수 **3천회 돌파**
 > * **[GitHub][snap_git]**
-> * **[Google Play][snap]**
+> * **[Google Play][muscle_play]**
+
+<br>
+
+>**MuscleKim**
+> * **소개**: **알람**을 맞춰주는 앱
+> * **기술**: Android
+> * **사이드 프로젝트**
+> * 다운로드 수 **3천회 돌파** 및 **평균 평점 4.7점**  
+> * **[Google Play][https://play.google.com/store/apps/details?id=muscle.kim.musclekim]**
 
 -----------------
 ### **6. 취득 자격증 🎫**
@@ -338,6 +337,7 @@ _____
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [snap]: https://play.google.com/store/apps/details?id=com.Dev.unknown.snapwifi&hl=ko
+[muscle_play]: https://play.google.com/store/apps/details?id=muscle.kim.musclekim
 [react_native]: https://reactnative.dev/
 [github]: https://github.com/HanBI24
 [short_cut]: https://github.com/HanBI24/ShortcutsNext
