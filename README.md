@@ -247,7 +247,7 @@
 
 ### - 2022년   
 
->**HotPl Navigation**
+>**Edge Map**
 > * **소개**: 현 위치 기준으로 목적지를 설정하면, 목적지 경로 주변 맛집, 관광명소, 숙박 등을 소개하는 앱
 > * **사용한 기술:Kotlin, Android, Naver API**
 > * **[GitHub][hotpl_navi]**  
